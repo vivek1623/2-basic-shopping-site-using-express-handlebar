@@ -38,6 +38,9 @@ main {
 .main-header__item {
   margin: 0 1rem;
   padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .main-header__item a {
