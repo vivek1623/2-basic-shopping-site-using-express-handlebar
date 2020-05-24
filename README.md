@@ -1,1 +1,1 @@
-# basic-shopping-site-using-express-handlerbar
+# basic-shopping-site-using-express-handlebar
